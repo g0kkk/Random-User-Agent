@@ -10,12 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/tarampampam/random-user-agent.git"
   },
-  "author": "paramtamtam <https://github.com/tarampampam>",
   "license": "WTFPL",
-  "bugs": {
-    "url": "https://github.com/tarampampam/random-user-agent/issues"
-  },
-  "homepage": "https://github.com/tarampampam/random-user-agent#readme",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-clean": "^0.3.2",
