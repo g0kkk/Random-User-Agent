@@ -7,4 +7,4 @@ Automatically replaces the User-Agent after a specified time interval
 
 Export the extension in the browser extensions.
 
-`Note: Does not work completely`
+`Note: Developing phase`
